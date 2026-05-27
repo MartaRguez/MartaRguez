@@ -46,7 +46,7 @@ My background is Computer Engineering and Statistics, but lately machine learnin
 
 ### 📂 Projects
 
-🔸 **[TreeMapper](https://github.com/MartaRguez/TreeMapper)** — ndividual tree segmentation in LiDAR point clouds using voxelization and the Mapper algorithm.
+🔸 **[TreeMapper](https://github.com/MartaRguez/TreeMapper)** — Individual tree segmentation in LiDAR point clouds using voxelization and the Mapper algorithm.
 
 🔸 *More projects in the oven — coming soon.*
 
