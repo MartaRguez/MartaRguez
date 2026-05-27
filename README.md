@@ -2,16 +2,17 @@
 
 ### Computer Engineering & Statistics · University of Valladolid, Spain
 
-Computer Engineering and Statistics gave me the foundations. Machine learning and deep learning are what I'm exploring now — they open doors that classical statistics can't quite reach.There's still a lot ahead, but I enjoy sharing what I build along the way.
+My background is Computer Engineering and Statistics, but lately machine learning and deep learning are where I spend most of my time. They go places classical statistics can't quite follow. I still have plenty to learn, and this is where I keep my projects.
+
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
 
 ### 🎯 What I'm into
 
-🔹 **Data analysis** — turning messy datasets into something that actually makes sense
+🔹 **Data analysis**: Turning messy datasets into something that actually makes sense
 
-🔹 **Machine learning & deep learning** — building models that learn, and figuring out *why* they work
+🔹 **Machine learning & deep learning**: Building models that learn, and figuring out *why* they work
 
-🔹 **Algorithms** — designing them, breaking them, making them faster
+🔹 **Algorithms**: Designing them, breaking them, making them faster
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
 
@@ -46,6 +47,7 @@ Computer Engineering and Statistics gave me the foundations. Machine learning an
 ### 📂 Projects
 
 🔸 **[TreeMapper](https://github.com/MartaRguez/TreeMapper)** — ndividual tree segmentation in LiDAR point clouds using voxelization and the Mapper algorithm.
+
 🔸 *More projects in the oven — coming soon.*
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
