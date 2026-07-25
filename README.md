@@ -47,6 +47,8 @@ My background is Computer Engineering and Statistics, but lately machine learnin
 
 🔸 **[TreeMapper](https://github.com/MartaRguez/TreeMapper)** — Individual tree segmentation in LiDAR point clouds using voxelization and the Mapper algorithm.
 
+🔸 **[orbits](https://github.com/MartaRguez/orbits)** — A growing gallery of generative art from iterated math: strange attractors rendered as density plots, with fractals and reaction–diffusion on the way.
+
 🔸 *More projects in the oven — coming soon.*
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
